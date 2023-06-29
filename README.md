@@ -42,10 +42,10 @@ Contributions are welcome! If you encounter any issues or have ideas for improve
 ## 🛡 License
 This project is licensed under the MIT License. This project is intended for educational and personal use only. The author is not responsible for any misuse or violation of LinkedIn's terms of service. Use this bot at your own risk.
 
-<div align="center"> <b>"⭐️ Don't forget to star this repository to show your support and stay updated with the latest enhancements!" </b> </div>
+<div align="center"> <h3>"⭐️ Don't forget to star this repository to show your support and stay updated with the latest enhancements!" </h3> </div>
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
+<h4> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h4> 
 <p align="center">
     <a href="https://www.linkedin.com/in/mahimachuri" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/infoelegant10" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
