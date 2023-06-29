@@ -42,7 +42,7 @@ Contributions are welcome! If you encounter any issues or have ideas for improve
 ## 🛡 License
 This project is licensed under the MIT License. This project is intended for educational and personal use only. The author is not responsible for any misuse or violation of LinkedIn's terms of service. Use this bot at your own risk.
 
-
+<div align="center"> <b>"⭐️ Don't forget to star this repository to show your support and stay updated with the latest enhancements!" </b> </div>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
