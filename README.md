@@ -29,6 +29,9 @@ public profiles that match the search criteria.
    ```
    python scraper.py
    ```
+<b>Note: You need to download web driver as per your Operating Sytem. 
+You can download it from here: https://chromedriver.chromium.org/downloads</b>
+
 ## 🎯Limitations
 The bot relies on web scraping techniques and is subject to LinkedIn's terms of service and scraping limitations. Use it responsibly and be aware of any potential legal and ethical implications.</br>
 LinkedIn's website structure may change over time, which can break the bot's scraping functionality. Regular maintenance and updates may be required to keep the bot working properly.
